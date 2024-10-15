@@ -3,9 +3,9 @@
 This is a scalable, realtime chat application built with Node.js, React.js, and ChatEngine.io.
 
 ## Application Preview
-![Authorization Page](Auth.png)
+![Authorization Page](/images/Auth.png)
 
-![Chat Page](Chat.png)
+![Chat Page](/images/Chat.png)
 
 ## Features
 
