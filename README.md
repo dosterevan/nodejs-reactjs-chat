@@ -70,7 +70,7 @@ They are always welcome. Please fork the repository and create a pull request.
 
 ## Contact
 
-If you want to contact me, you can reach me at `mailto:dosterevan@gmail.com`.
+If you want to contact me, you can reach me at `dosterevan@gmail.com`.
 
 ## Acknowledgements
 
