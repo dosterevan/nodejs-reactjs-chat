@@ -2,6 +2,11 @@
 
 This is a scalable, realtime chat application built with Node.js, React.js, and ChatEngine.io.
 
+## Application Preview
+![Authorization Page](Auth.png)
+
+![Chat Page](Chat.png)
+
 ## Features
 
 - Real-time messaging
